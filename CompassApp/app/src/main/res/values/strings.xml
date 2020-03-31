@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Compass App</string>
+    <string name="the_angle_is_displayed_here">The angle is displayed here...</string>
+    <string name="compass_app">Compass App</string>
+    <string name="todo">TODO</string>
+</resources>
